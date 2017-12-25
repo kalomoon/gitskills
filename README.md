@@ -1,2 +1,1 @@
 # gitskills
-/usr/sbin/env
